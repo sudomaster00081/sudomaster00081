@@ -77,8 +77,7 @@ Hi there! 👋 This README powers my GitHub profile: https://github.com/sudomast
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudomaster00081&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudomaster00081&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=sudomaster00081&theme=dark&hide_border=true" />
 </div>
 
 ---
