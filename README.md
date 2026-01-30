@@ -100,7 +100,7 @@ I'm always open to:
 - Sharing knowledge about full-stack development
 - Exploring opportunities in AI research and innovation
 
-📫 **Reach out**: [LinkedIn](https://www.linkedin.com/in/ajay-prasad-p-k/) | [Email](mailto:your.email@example.com)
+📫 **Reach out**: [LinkedIn](https://www.linkedin.com/in/ajay-prasad-p-k/) | [Email](mailto:ajayprasad0008@gmail.com)
 
 ---
 
